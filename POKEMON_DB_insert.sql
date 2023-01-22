@@ -1,0 +1,11 @@
+INSERT INTO Pokedex VALUES ('Psykokwak','Eau','828','101','False');
+INSERT INTO Pokedex VALUES ('Marisson','Plante','222','58','True');
+INSERT INTO Pokedex VALUES ('Solochi','Dragon','813','108','False');
+INSERT INTO Pokedex VALUES ('Pikachu','Electrik','416','63','False');
+INSERT INTO Pokedex VALUES ('Dracolosse','Dragon','3819','178','False');
+INSERT INTO Pokedex VALUES ('Gardevoir','Psy','2297','126','False');
+INSERT INTO Pokedex VALUES ('Zacian','Fée','2635','134','False');
+INSERT INTO Pokedex VALUES ('Stalgamin','Glace','544','96','True');
+INSERT INTO Pokedex VALUES ('Mewtwo','Psy','4243','182','False');
+INSERT INTO Pokedex VALUES ('Ronflex','Normal','1798','205','False');
+INSERT INTO Pokedex VALUES ('Giratina','Spectre','2070','176','True');
